@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ![Aaru1801's GitHub stats](https://github-readme-streak-stats-salesp07.vercel.app/?user=Aaru1801&show_icons=true&theme=radical)
 ![Aaru1801's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=Aaru1801&show_icons=true&theme=radical)
-<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Aaru1801&hide=HTML&langs_count=8&layout=compact&theme=radical1&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+![Aaru1801's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Aaru1801&show_icons=true&theme=radical)
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
