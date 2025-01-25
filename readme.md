@@ -32,14 +32,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 📂 Recent Projects
 
-- [**Project 1**](https://github.com/Aaru1801/project1) - Brief description of project 1.
-- [**Project 2**](https://github.com/Aaru1801/project2) - Brief description of project 2.
-- [**Project 3**](https://github.com/Aaru1801/project3) - Brief description of project 3.
-
-## 📝 Blog Posts
-
-- [**Post 1**](https://yourblog.com/post1) - Brief description of post 1.
-- [**Post 2**](https://yourblog.com/post2) - Brief description of post 2.
-- [**Post 3**](https://yourblog.com/post3) - Brief description of post 3.
+- [**Project 1**](https://github.com/Aaru1801/AI_ChatBot-Web-Edition) - Brief description of project 1.
+- [**Project 2**](https://github.com/Aaru1801/ChatGPT-Free-4o) - Brief description of project 2.
+- [**Project 3**](https://github.com/Aaru1801/AsteroidShooter_2) - Brief description of project 3.
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
