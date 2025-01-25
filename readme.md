@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 📂 Recent Projects
 
-- [**Project 1**](https://github.com/Aaru1801/AI_ChatBot-Web-Edition) - Brief description of project 1.
-- [**Project 2**](https://github.com/Aaru1801/ChatGPT-Free-4o) - Brief description of project 2.
-- [**Project 3**](https://github.com/Aaru1801/AsteroidShooter_2) - Brief description of project 3.
+- [**ChatGPT Web**](https://github.com/Aaru1801/AI_ChatBot-Web-Edition) - Successful ChatGPT Project.
+- [**Free ChatGPT 4o**](https://github.com/Aaru1801/ChatGPT-Free-4o) -  Tried to remake ChatGPT with project key licensed by ChatGPT.
+- [**Asteroid Shooter Game**](https://github.com/Aaru1801/AsteroidShooter_2) - Asteroid Shooter game made on pygame.
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on any projects.
