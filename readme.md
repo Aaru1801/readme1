@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ![Aaru1801's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Aaru1801&show_icons=true&theme=radical)
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aarav-bhargava/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/AaravB1801)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:1aaravbhargava@gmail.com)
 
 ## 📂 Recent Projects
 
